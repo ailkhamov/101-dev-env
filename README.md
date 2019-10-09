@@ -13,4 +13,9 @@ Go to github and merge branch to master
 What happens is the master timeline is GitHub is a head of your local timeline. So now we need to pull from GitHub:
 
 In our local master:
-  git pull origin master 
+  git pull origin master
+
+
+New-Branch
+
+I just added a new branch
